@@ -3,7 +3,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://hammadliaquat77)
 </div>
 <h1 align="center">Hi 👋, I'm Hammad Liaquat</h1>
-<h3 align="center">I'm frontend developer from Pakistan</h3>
+<h3 align="center">I'm Mern Stack developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">
 
